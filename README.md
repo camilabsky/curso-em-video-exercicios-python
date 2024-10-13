@@ -51,3 +51,5 @@ Caso esteja logado com a sua conta do GitHub, clique no botão Star para ajudar 
 ![Tela 5](https://user-images.githubusercontent.com/13935419/147725534-53c24d52-597a-47fb-a990-23732768cb71.png)
 
 Divirta-se assistindo as aulas do professor Guanabara e resolvendo os exercícios propostos. Espero que esse trabalho te ajude na sua jornada de aprendizado do Python!
+
+Irei fazer esses exercícios!
